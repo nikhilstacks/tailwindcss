@@ -667,4 +667,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   }
 }
 
+.image{
+  height: 100vh;
+  width: 40vw;
+  background-color: grey;
+}
+
 
